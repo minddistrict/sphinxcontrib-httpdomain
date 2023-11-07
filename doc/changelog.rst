@@ -8,9 +8,9 @@ Version 2.0.0
 
 Unreleased
 
-- Drop support for Python 2.7. Removes dependency on six.
 - Add support for Python 3.7 up to 3.12.
 - Drop support for Python 3.6 and older.
+- Remove dependency on six.
 
 
 Version 1.8.0
