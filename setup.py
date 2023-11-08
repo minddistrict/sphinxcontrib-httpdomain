@@ -5,8 +5,7 @@ from setuptools import setup
 
 
 requires = [
-    'Sphinx >= 1.6',
-    'six',
+    'Sphinx >= 1.6'
 ]
 
 
