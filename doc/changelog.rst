@@ -3,10 +3,8 @@
 Changelog
 ---------
 
-Version 2.0.0
-`````````````
-
-Unreleased
+Version 2.0.0+md.1 (2023-11-08)
+```````````````````````````````
 
 - Add support for Python 3.7 up to 3.12.
 - Drop support for Python 3.6 and older.
